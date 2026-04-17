@@ -15,6 +15,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%go=php&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude-%2312100E.svg?style=for-the-badge&logo=anthropic&logoColor=white) 
+![GPT](https://img.shields.io/badge/GPT-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=batuhanyilmaz1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
